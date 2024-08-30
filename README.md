@@ -1,6 +1,7 @@
 # Sales Prediction using Python
 ## Overview
 This project aims to predict future sales based on various factors such as advertising expenditure, target segments, and advertising platforms. Predicting sales accurately is crucial for businesses to optimize their marketing strategies and allocate resources effectively. This project utilizes machine learning techniques to model and forecast sales.
+
 Dataset: https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 ### Table of Contents
 - Features
@@ -46,5 +47,6 @@ pandas
 numpy
 scikit-learn
 xgboost
-Install the required packages using pip:
+Install the required packages using pip: 
+
 pip install pandas numpy scikit-learn xgboost
