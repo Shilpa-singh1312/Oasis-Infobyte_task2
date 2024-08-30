@@ -32,12 +32,6 @@ Various models were trained to predict sales, including:
 - Testing R² Score: 0.972470
 - Random Forest Regressor:
 
-- Training MSE: 0.094742
-- Testing MSE: 0.590732
-- Training R² Score: 0.996347
-- Testing R² Score: 0.981284
-- Decision Tree Regressor:
-
 - Training MSE: 2.705129
 - Testing MSE: 3.174097
 - Training R² Score: 0.895701
